@@ -72,6 +72,10 @@ Pre-alpha：
 - `.xlsx` 模板版本
 - 更多已填写样例
 
+## 致谢
+
+本项目由 [Codex](https://github.com/anthropics/claude-code) 辅助创建，包括方法论迭代、案例调研、Demo 开发和文档撰写。
+
 ## License
 
 MIT
