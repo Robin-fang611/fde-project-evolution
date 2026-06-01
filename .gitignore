@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Generated demo outputs
+examples/*/output/
+
+# Local scratch files
+*.tmp
+*.bak

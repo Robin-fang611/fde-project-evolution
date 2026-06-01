@@ -1,0 +1,4 @@
+interface:
+  display_name: "FDE 项目进化"
+  short_description: "面向中国中小民企 AI/数字化落地的 FDE 记忆、场景验证和开源 playbook"
+  default_prompt: "使用 $fde-project-evolution 阅读这个中国中小民企项目的记录，更新 FDE 项目记忆，并识别可验证、可开源的落地经验。"
